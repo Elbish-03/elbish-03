@@ -1,16 +1,22 @@
 ### Hi there 👋
+## 🚀 About me
+I'm Elbish Bhusal, an aspiring IT Application Developer currently studying at Alte Kantonalsschule Aarau | Baden. 📚
 
-<!--
-**Elbish-03/elbish-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me:
 
-Here are some ideas to get you started:
+🔭 I'm passionate about programming and enjoy diving into backend development.
+🐛 Love solving complex code bugs and creating efficient solutions.
+🌱 Current Endeavors:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studying to become a proficient IT Application Developer.
+💬 Ask Me About:
+
+💻 Backend development
+🐞 Troubleshooting code issues
+📫 How to Reach Me:
+
+📧 Email: [YourEmail@example.com]
+⚡ Fun Fact:
+
+💪 Fitness enthusiast on a journey to build both strong code and a strong body.
+Let's connect and code together! 🚀
