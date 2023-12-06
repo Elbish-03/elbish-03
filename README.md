@@ -15,7 +15,7 @@ I'm Elbish Bhusal, an aspiring IT Application Developer currently studying at Al
 🐞 Troubleshooting code issues
 📫 How to Reach Me:
 
-📧 Email: [YourEmail@example.com]
+📧 Email: elbishbhusal03@gmail.com
 ⚡ Fun Fact:
 
 💪 Fitness enthusiast on a journey to build both strong code and a strong body.
