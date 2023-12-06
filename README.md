@@ -1,22 +1,17 @@
 ### Hi there!👋
-## 🚀 About me
+## 👨‍💻 About Me
 I'm Elbish Bhusal, an aspiring IT Application Developer currently studying at Alte Kantonalsschule Aarau | Baden. 📚
 
-👨‍💻 About Me:
+
 
 🔭 I'm passionate about programming and enjoy diving into backend development. 
 🐛 Love solving complex code bugs and creating efficient solutions.
-🌱 Current Endeavors:
 
 🎓 Studying to become a proficient IT Application Developer.
-💬 Ask Me About:
 
 💻 Backend development
 🐞 Troubleshooting code issues
-📫 How to Reach Me:
-
-📧 Email: elbishbhusal03@gmail.com
-⚡ Fun Fact:
+📫 How to Reach Me: elbishbhusal03@gmail.com
 
 💪 Fitness enthusiast on a journey to build both strong code and a strong body.
 Let's connect and code together! 🚀
